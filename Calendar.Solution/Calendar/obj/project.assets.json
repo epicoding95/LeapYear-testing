@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/LeapYear/Calendar.Solution/Calendar/Calendar.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/LeapYear-testing/Calendar.Solution/Calendar/Calendar.csproj",
       "projectName": "Calendar",
-      "projectPath": "/Users/Guest/Desktop/LeapYear/Calendar.Solution/Calendar/Calendar.csproj",
+      "projectPath": "/Users/Guest/Desktop/LeapYear-testing/Calendar.Solution/Calendar/Calendar.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/LeapYear/Calendar.Solution/Calendar/obj/",
+      "outputPath": "/Users/Guest/Desktop/LeapYear-testing/Calendar.Solution/Calendar/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

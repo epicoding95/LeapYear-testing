@@ -3,7 +3,8 @@ using Calendar;
 
 namespace Calendar.Tests
 {
-  [TestClass]
+  [TestClass] ////dotnet run
+
   public class LeapYearTest
   {
 
@@ -11,7 +12,9 @@ namespace Calendar.Tests
   [TestMethod]
     public void IsLeapYear_MultiplesOfOneHundred_False()
     {
-      LeapYear testLeapYear = new LeapYear();
+      ////arrange
+      LeapYear testLeapYear = new LeapYear();/
+      ////assert
       Assert.AreEqual(false, testLeapYear.IsLeapYear(1900));
     }
 
